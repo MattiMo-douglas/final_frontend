@@ -1,4 +1,6 @@
-const API_BASE_URL = 'http://your-backend-url.com/api';
+const API_BASE_URL = 'https://final-backend-i2x3.onrender.com/api';
+// const API_BASE_URL ='http://localhost:4500/api';
+
 
 // Create a new product
 export const createProduct = async (product) => {
